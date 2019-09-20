@@ -17,4 +17,5 @@ Game Creation by Chloe Skillman & Sean Mills
 
 Link to play game: https://globalgamejam.org/2019/games/beside-stars
 
-Youtube link to game: https://www.youtube.com/watch?v=S7Ltr87t2xQ&t=1s
+Youtube links to game: https://www.youtube.com/watch?v=S7Ltr87t2xQ&t=1s
+https://www.youtube.com/watch?v=pMkFNkyj36g
