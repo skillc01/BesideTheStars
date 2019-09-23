@@ -28,11 +28,12 @@ Unzip the file. Once unzipped, go into the file and double click "ggj3" to play 
 
 ## Versioning
 
-[Unity2018.2.5f1] (https://unity3d.com/get-unity/download) - contains link to download Unity2018.2.5f1 and previous and later veersions. 
+[Unity2018.2.5f1](https://unity3d.com/get-unity/download) - contains link to download Unity2018.2.5f1 and previous and later versions. 
 
 ## Authors
 
 * **Chloe Skillman** - *Game Creation* - [Github](https://github.com/ChloeLS)
+                                         [LinkedIn](https://www.linkedin.com/in/chloe-skillman-b80941183/)
                                          [Global Game Jam Site](https://globalgamejam.org/users/chloe-skillman)
 * **Sean Mills** -  *Main Menu work*  -  [Global Game Jam Site](https://globalgamejam.org/users/retrogamr2000)
 
