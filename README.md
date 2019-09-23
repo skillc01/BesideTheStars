@@ -31,6 +31,8 @@ Unzip the file. Once unzipped, go into the file and double click "ggj3" to play 
 [Unity2018.2.5f1](https://unity3d.com/get-unity/download) - contains link to download Unity2018.2.5f1 and previous and later versions. 
 
 ## Screenshots and video
+
+[Youtube Link](https://www.youtube.com/watch?v=S7Ltr87t2xQ)
 [![BesideTheStars](https://i.ytimg.com/vi/S7Ltr87t2xQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=S7Ltr87t2xQ&t=1s)
 
 ## Authors
@@ -42,6 +44,8 @@ Unzip the file. Once unzipped, go into the file and double click "ggj3" to play 
 
 ## Acknowledgments
 
+* Would like to thank Sean Mills for the creation and coding of the main menu of the game.
+
 Assets Used:
 * HONETI Free Animated Space Man - https://assetstore.unity.com/packages/3d/characters/humanoids/free-animated-space-man-61548
 * SpaceSkies Free - https://assetstore.unity.com/packages/2d/textures-materials/sky/spaceskies-free-80503
@@ -50,6 +54,3 @@ Assets Used:
 Music in Game:
 * UNDERWATER SPACE GALAXY CHILL-OUT BACKGROUND MUSIC
 * Mariana Trench by Paul Keane - Royalty-Free Music found here: https://www.youtube.com/watch?v=wpDh3rgjgr4&fbclid=IwAR0fLsx1WkTnZOB2U1Ve5fGX9V0x0cSnTXcS9fSlwUjX9rfx7aH1L5xi1dc
-
-* Would like to thank Sean Mills for the creation and coding of the main menu of the game.
-
