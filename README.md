@@ -30,6 +30,9 @@ Unzip the file. Once unzipped, go into the file and double click "ggj3" to play 
 
 [Unity2018.2.5f1](https://unity3d.com/get-unity/download) - contains link to download Unity2018.2.5f1 and previous and later versions. 
 
+## Screenshots and video
+[![BesideTheStars](https://i.ytimg.com/vi/S7Ltr87t2xQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=S7Ltr87t2xQ&t=1s)
+
 ## Authors
 
 * **Chloe Skillman** - *Game Creation* - [Github](https://github.com/ChloeLS)
@@ -49,3 +52,4 @@ Music in Game:
 * Mariana Trench by Paul Keane - Royalty-Free Music found here: https://www.youtube.com/watch?v=wpDh3rgjgr4&fbclid=IwAR0fLsx1WkTnZOB2U1Ve5fGX9V0x0cSnTXcS9fSlwUjX9rfx7aH1L5xi1dc
 
 * Would like to thank Sean Mills for the creation and coding of the main menu of the game.
+
