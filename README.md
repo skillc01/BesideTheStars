@@ -24,8 +24,9 @@ Unzip the file. Once unzipped, go into the file and double click "ggj3" to play 
 
 ## Built With
 
-* [Unity](https://unity3d.com/get-unity/download) - The game engine used
 * C# - Programming language used within Unity
+* [Unity](https://unity3d.com/get-unity/download) - The game engine used
+
 
 ## Versioning
 
