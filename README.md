@@ -1,6 +1,6 @@
 ## Beside The Stars
 
-Beside The Stars is a 3D building game created in Unity in 48 hours for the Global Game Jam 2019. The game is set on a 3D planet in deep space where the player's objective is to search the planet, find the missing block from each house and put them into the correct missing slots of each house. The player is also free to explore the planet and build with the building block on the planet. 
+Beside The Stars is a 3D building game created in Unity in 48 hours for the Global Game Jam 2019. The game is set on a 3D planet in deep space where the player's objective is to search the planet, find the missing block from each house and put them into the correct missing slots of each house. The player is also free to explore the planet and build with the building blocks found on the planet. 
 
 ## Getting Started
 
