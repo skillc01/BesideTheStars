@@ -42,7 +42,9 @@ Unzip the file. Once unzipped, go into the file and double click "ggj3" to play 
 * **Chloe Skillman** - *Game Creation* - [Github](https://github.com/ChloeLS)
                                          [LinkedIn](https://www.linkedin.com/in/chloe-skillman-b80941183/)
                                          [Global Game Jam Site](https://globalgamejam.org/users/chloe-skillman)
-* **Sean Mills** -  *Main Menu work*  -  [Global Game Jam Site](https://globalgamejam.org/users/retrogamr2000)
+* **Sean Mills** -  *Main Menu work*  -  [Github](https://github.com/SeanMills99)
+                                         [LinkedIn](https://www.linkedin.com/in/sean-mills-71198821a/)
+                                         [Global Game Jam Site](https://globalgamejam.org/users/retrogamr2000)
 
 ## Acknowledgments
 
